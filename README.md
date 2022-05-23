@@ -1,6 +1,6 @@
 # Breast_cancer_detection
 
-First download the INBreast dataset from below link -
+First, download the INBreast dataset from below link -
 https://drive.google.com/file/d/19n-p9p9C0eCQA1ybm6wkMo-bbeccT_62/view
 
 Preprocess the INBreast dataset images,
