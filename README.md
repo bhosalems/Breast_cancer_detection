@@ -15,4 +15,4 @@ python training.py --data-path "path_to_output_dir/data.pkl" --image-path "path_
 
 To train the traditional classifiers on DDSM/INBreast dataset head over to [pretrained_classifier.ipynb](https://github.com/bhosalems/Breast_cancer_detection/blob/main/pretrained_classifier.ipynb)
 
-Checkout the [report](src/ybadugu_mbhosale_yulinchi_cchen248.pdf) -
+Checkout the [report](src/ybadugu_mbhosale_yulinchi_cchen248.pdf) for detailed explanation.
